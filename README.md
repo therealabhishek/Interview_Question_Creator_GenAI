@@ -4,11 +4,12 @@
 - The tool stack used for the project is as follows:
 
 1. Python - programming language
-2. OpenAI API - LLM
-3. FAISS - vector database
-3. FAST API - API creation
-4. AWS EC2 - application deployment
-5. HTML/CSS
+2. Langchain - used as LLM framework
+3. OpenAI API - LLM
+4. FAISS - vector database
+5. FAST API - API creation
+6. AWS EC2 - application deployment
+7. HTML/CSS
 
 ### What is the need for this Interview Question Answer creator app?
 - Let us say you are teacher who is teaching a particular topic. You want to quizz your students on the same. When you upload pdf of the topic that you are stuying, this application can generate questions and their appropriate answers.
@@ -42,4 +43,16 @@
 
    - The image above shows the app running on EC2 instance.
 
+### To run the app locally
 
+- Create a virtual environment 'conda create -p venv python=3.10'
+
+- Activate the virtual environment 'conda activate venv/.'
+
+- Install the requirements file 'pip install -r requirements.txt'
+
+- create a .env file and add your OPENAI_API_KEY
+
+- Run the app using 'python app.py'
+
+- The data is stored in the 'data folder'
