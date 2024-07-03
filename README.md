@@ -23,5 +23,18 @@
 1. App UI - 1
    ![AppUI1](https://github.com/therealabhishek/Interview_Question_Creator_GenAI/blob/main/assets/aws_instance.PNG)
 
+   - You can upload the pdf file by clicking on the 'Choose File' button and click 'GenerateQ&A' to generate the question answers.
+
+2. App UI - 2
+    ![AppUI1](https://github.com/therealabhishek/Interview_Question_Creator_GenAI/blob/main/assets/aws_instance_1.PNG)
+
+    - After the question answer are generated, the pdf we uploaded to generate will be visible and the question answer pai can be downloaded by clicking on the yellow button with downward arrow. The downloaded file will be a '.csv' file.
+
+    - We can open the file using notepad as well to have a look at the generated question answers.
+
+3. EC2 deployment
+    ![EC2](https://github.com/therealabhishek/Interview_Question_Creator_GenAI/blob/main/assets/ec2_apprun.PNG)
+
+   - The image above shows the app running on EC2 instance.
 
 
