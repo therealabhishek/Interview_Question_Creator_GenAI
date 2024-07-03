@@ -35,6 +35,8 @@
 
     - We can open the file using notepad as well to have a look at the generated question answers.
 
+    - The output file is available above which is named as 'qa_output.csv'
+
 3. EC2 deployment
     ![EC2](https://github.com/therealabhishek/Interview_Question_Creator_GenAI/blob/main/assets/ec2_apprun.PNG)
 
