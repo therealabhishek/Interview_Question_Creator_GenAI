@@ -17,6 +17,9 @@
 
 ### How has this app been created?
 
+- Project Architecture
+  ![project architecture](https://github.com/therealabhishek/Interview_Question_Creator_GenAI/blob/main/assets/interviewqa.png)
+
 
 ### How does the application look like?
 
